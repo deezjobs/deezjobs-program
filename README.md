@@ -1,4 +1,4 @@
-# About DeezJobs
+# About Deez Jobs
 
 ### Values
 * For Freelancers - Post a service or find a job you want to work on, create a solution, and get paid.
@@ -13,6 +13,8 @@
 * Fair appeal/dispute resolution - There is no central entity to decide on the dispute resolution; it will be voted on by the community / NFT holders.
 
 ### Official links
-* Pitch Deck: [https://tinyurl.com/Deez-Jobs-Deck](https://tinyurl.com/deezjobs-live-demo)
-* Twitter: [https://twitter.com/DeezJobs_](https://twitter.com/DeezJobs_)
 * Website: [https://deezjobs.xyz](https://deezjobs.xyz/frnzgs)
+* Twitter: [https://twitter.com/DeezJobs_](https://twitter.com/DeezJobs_)
+* Live demo: [https://tinyurl.com/deezjobs-live-demo](https://tinyurl.com/deezjobs-live-demo)
+* Animated explainer video: [https://tinyurl.com/deezjobs-short-explainer-vid](https://tinyurl.com/deezjobs-short-explainer-vid)
+* Docs: [https://whitepaper.deezjobs.xyz](https://whitepaper.deezjobs.xyz)
